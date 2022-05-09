@@ -1,3 +1,7 @@
+/* 
+    Problem Solving using C and C++ Project
+    Submitted by: Pranjal Tiwari
+*/
 #include<conio.h>
 #include<bits/stdc++.h>
 using namespace std;
